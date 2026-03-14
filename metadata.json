@@ -1,0 +1,5 @@
+{
+  "name": "another fork",
+  "description": "A powerful, free client-side PDF tool to rotate, crop, and curate pages. Includes Gemini-powered analysis to summarizing or questioning document content.",
+  "requestFramePermissions": []
+}
